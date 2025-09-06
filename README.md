@@ -65,6 +65,25 @@ The system follows a full-stack architecture with a clear separation of concerns
 <img width="1047" height="495" alt="image" src="https://github.com/user-attachments/assets/ff07a0e4-d8a8-456e-81e7-90cec2211c5f" />
 
 
+## Demo
+
+A live demo is available at `http://localhost:8503` after setup. Screenshots of the user interface are provided below to showcase the application's functionality.
+
+### Screenshots
+
+- The title page of the project report, featuring the project title <img width="923" height="592" alt="image" src="https://github.com/user-attachments/assets/32ce8be0-cd61-405a-b769-04e6ea7f5834" />
+
+<img width="948" height="541" alt="image" src="https://github.com/user-attachments/assets/09a557a7-7c8d-4087-ace9-0f4373a8ace0" />
+
+
+<img width="1060" height="622" alt="image" src="https://github.com/user-attachments/assets/bf66d6d8-62ef-4b7b-aded-f721723a6c0d" />
+
+<img width="930" height="534" alt="image" src="https://github.com/user-attachments/assets/d935c969-2189-4bdb-a83a-4c927b41b0de" />
+
+
+These images highlight the documentation and design aspects of the project, complementing the interactive demo.
+
+
 ## Usage
 
 1. Launch the Streamlit app as above.
